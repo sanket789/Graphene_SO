@@ -13,3 +13,4 @@ plt.xlabel(r'$\vec{q}$')
 plt.ylabel(r'$\epsilon \ in (\mu eV)$')
 plt.title('Intrinsic splitting')
 plt.show()
+print 'done'
